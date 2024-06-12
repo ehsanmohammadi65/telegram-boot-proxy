@@ -1,0 +1,19 @@
+{
+  "name": "telegram-boot-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xyxyxyxy16@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^7.0.4",
+    "node-telegram-bot-api": "^0.66.0",
+    "punycode": "^2.3.1",
+    "socks-client": "^1.1.4",
+    "socks-proxy-agent": "^8.0.3",
+    "socks5-client": "^1.2.8"
+  }
+}
